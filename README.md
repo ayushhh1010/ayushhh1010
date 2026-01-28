@@ -64,9 +64,9 @@
 
 ## 🌎 Connect With Me
 
-📧 Email — YOUR_EMAIL  
-🐦 Twitter — https://twitter.com/YOUR_HANDLE  
-💼 LinkedIn — https://linkedin.com/in/YOUR_USERNAME  
+📧 Email — ayushsingh36582@gmail.com  
+🐦 Twitter — https://twitter.com/ayush_1010_/
+💼 LinkedIn — https://www.linkedin.com/in/ayush-kumar1010/  
 🌐 Portfolio — coming soon 🚧
 
 ---
