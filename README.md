@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Ayush Kumar</h1>
-<h3 align="center">AI/ML Enthusiast · Problem Solver · Lifelong Learner</h3>
+<h3 align="center"> Problem Solver · Lifelong Learner</h3>
 
 ---
 
