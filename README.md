@@ -28,23 +28,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🩻 Intracranial Hemorrhage Detection (RSNA)
-✔ End-to-end pipeline — preprocessing, windowing, CNNs  
-✔ Compared multiple architectures (ResNet, DenseNet, EfficientNet)  
-✔ Evaluated AUC, Accuracy, Sensitivity
-
-### 🎤 Speech Emotion Recognition
-✔ Extracted MFCC & spectrogram features  
-✔ BiLSTM + CNN hybrid classifier  
-✔ 80%+ test performance on benchmark audio corpus
-
-### 🔢 Competitive Programming Toolkit
-✔ Implemented utility DS/Algo templates  
-✔ Regular LeetCoding — tracking progress in GitHub 😉
-
----
 
 ## 📊 GitHub Insights
 
