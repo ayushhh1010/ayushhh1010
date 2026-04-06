@@ -5,28 +5,9 @@
 
 ## 🚀 About Me  
 🎓 B.Tech in Computer Science (2023 — 2027)  
-🧠 Working on AI, Deep Learning & Medical Imaging  
-📊 Interested in Computer Vision, Speech Emotion Recognition & Healthcare Models  
-💡 Exploring system design + competitive programming  
-🌱 Currently learning: self-supervised vision & model optimization  
+💡 Exploring system design + competitive programming + AI/ML 
 📍 India
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-💻 C++ | Python | JavaScript | SQL  
-
-**Frameworks & ML Tools**  
-🔥 PyTorch | TensorFlow | Keras | Scikit-Learn  
-
-**Other Skills**  
-🧪 Pandas · NumPy · OpenCV  
-🗄️ Git & GitHub · Linux  
-📦 Flask · FastAPI (learning)
-
----
 
 
 ## 📊 GitHub Insights
