@@ -10,21 +10,6 @@
 
 
 
-## 📊 GitHub Insights
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" alt="streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" alt="stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" alt="langs"/>
-</p>
-
----
 
 ## 🌎 Connect With Me
 
