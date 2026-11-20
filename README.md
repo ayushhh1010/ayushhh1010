@@ -16,7 +16,8 @@
 📧 Email — ayushsingh36582@gmail.com  
 🐦 Twitter — https://twitter.com/ayush_1010_/
 💼 LinkedIn — https://www.linkedin.com/in/ayush-kumar1010/  
-🌐 Portfolio — coming soon 🚧
+🌐 Portfolio — www.ayushkr.dev
+
 
 ---
 
